@@ -10,9 +10,9 @@ Hierbij de nieuwe e-mailhandtekeningen! 👇🏻
 
 **Apple**: Open jouw handtekening door hieronder bij je naam op een link te klikken in Chrome of Firefox (dus niet in Safari). Selecteer alles (CMD+A), kopieer vervolgens alles (CMD+C).
 
-| Handtekeningen |  |  |  |
-|-----------|----------|-------|-----------|
-| AFS uitzendbureau     | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/afsuitzendbureau.html)
+| Handtekeningen | 
+|-----------|----------|
+| AFS uitzendbureau     | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/afsuitzendbureau.html) |
 
 ## Stap 2
 
