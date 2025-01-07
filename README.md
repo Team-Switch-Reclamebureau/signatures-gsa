@@ -12,7 +12,7 @@ Hierbij de nieuwe e-mailhandtekeningen! 👇🏻
 
 | Handtekeningen | |
 |-----------|----------|
-| Active bouwlogistiek     | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/active-bouwlogistiel.html) |
+| Active bouwlogistiek     | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/active-bouwlogistiek.html) |
 | Airport facility services | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/airportfacilityservices.html) |
 | AFS uitzendbureau     | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/afsuitzendbureau.html) |
 | CVS solutions | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/cvs-solutions.html) |
