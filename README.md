@@ -17,7 +17,9 @@ Hierbij de nieuwe e-mailhandtekeningen! 👇🏻
 | AFS uitzendbureau     | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/afsuitzendbureau.html) |
 | CVS solutions | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/cvs-solutions.html) |
 | GKS sloopwerken | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/gks-sloopwerken.html) |
+| GMI installatietechniek | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/gmi-installatietechniek.html) |
 | GOV vloeren | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/gov-vloeren.html) |
+| GPB bouw | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/gpb-bouw.html) |
 | GSA Facilities | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/gsa-facilities.html) |
 | GSA groep | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/gsa-groep.html) |
 | HPG W-techniek | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/hpg-w.html) |
