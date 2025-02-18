@@ -15,9 +15,7 @@ Hierbij de nieuwe e-mailhandtekeningen! 👇🏻
 | Active bouwlogistiek     | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/active-bouwlogistiek.html) |
 | Airport facility services | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/airportfacilityservices.html) |
 | AFS uitzendbureau     | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/afsuitzendbureau.html) |
-<!-- | CVS solutions | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/cvs-solutions.html) | -->
 | GKS sloopwerken | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/gks-sloopwerken.html) |
-<!-- | GMI installatietechniek | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/gmi-installatietechniek.html) | -->
 | GOV vloeren | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/gov-vloeren.html) |
 | GPB bouw | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/gpb-bouw.html) |
 | GSA Facilities | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/gsa-facilities.html) |
@@ -25,7 +23,6 @@ Hierbij de nieuwe e-mailhandtekeningen! 👇🏻
 | HPG W-techniek | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/hpg-w.html) |
 | Sinus audiovisueel | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/sinus-audiovisueel.html) |
 | SST security | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/sst-security.html) |
-<!-- | STR project services | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/str-project-services.html) | -->
 
 
 ## Stap 2
