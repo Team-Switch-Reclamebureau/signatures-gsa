@@ -24,7 +24,8 @@ Hierbij de nieuwe e-mailhandtekeningen! 👇🏻
 | Sinus audiovisueel | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/sinus-audiovisueel.html) |
 | SST security | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/sst-security.html) |
 | *New* | |
-| Schiphol Meet & Assist | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/schiphol-meet-and-assist.html) |
+| Schiphol Meet & Assist (en)| [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/schiphol-meet-and-assist-EN.html) |
+| Schiphol Meet & Assist (nl)| [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/schiphol-meet-and-assist-NL.html) |
 | G-LOGIC | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/g-logic.html) |
 | Top-match | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/top-match.html) |
 
