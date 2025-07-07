@@ -28,6 +28,7 @@ Hierbij de nieuwe e-mailhandtekeningen! 👇🏻
 | Schiphol Meet & Assist (nl)| [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/schiphol-meet-and-assist-NL.html) |
 | G-LOGIC | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/g-logic.html) |
 | Topmatch | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/topmatch.html) |
+| WTC | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/wtc.html) |
 
 
 ## Stap 2
