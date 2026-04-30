@@ -14,7 +14,8 @@ Hierbij de nieuwe e-mailhandtekeningen! 👇🏻
 |-----------|----------|
 | Active bouwlogistiek     | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/active-bouwlogistiek.html) |
 | Airport facility services | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/airportfacilityservices.html) |
-| AFS uitzendbureau     | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/afsuitzendbureau.html) |
+| AFS schiphol     | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/afsschiphol.html) |
+| AFS uitzendbureau (deprecated)     | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/afsuitzendbureau.html) |
 | GKS sloopwerken | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/gks-sloopwerken.html) |
 | GOV vloeren | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/gov-vloeren.html) |
 | GPB bouw | [Normaal](https://team-switch-reclamebureau.github.io/signatures-gsa/gpb-bouw.html) |
